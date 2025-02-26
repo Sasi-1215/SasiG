@@ -1,0 +1,6 @@
+Depart_id,Depart_nm,location
+1,Human Resources,New York	
+2,Information Technology,San Francisco
+3,Finance,Chicago	
+4,Marketing,Boston	
+5,Research and Development,Seattle
